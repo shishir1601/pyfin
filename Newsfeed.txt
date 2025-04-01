@@ -1,0 +1,1 @@
+Can you write a python code to read incoming economic news feeds and give a combined rating of the market sentiment is positive or negative. This program should run continuously and keep the news feeds of last 100 hours in memory and provide a rest api to get the sentiment rating from 0 to 5 .  0 being most pessimistic 5 being most optimistic
